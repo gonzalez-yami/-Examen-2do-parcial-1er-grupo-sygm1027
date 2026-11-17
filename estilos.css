@@ -1,0 +1,40 @@
+*body {
+    background-color:#72a581;
+    color: #5e5d5d;
+}
+.head {
+    background-color: #72a581;
+    color: #5e5d5d;
+}
+.producto-card {
+    border: 1px solid #8faf99;
+    padding: 10px;
+    border-radius: 1px;
+    text-align:justify;
+}
+h1{
+    margin-bottom: 15px;
+    color: #070707;
+}
+h2 {
+    margin-bottom: 15px;
+    color: #444444;
+    text-align:justify;
+}
+.card {
+    background: #8faf99;
+    padding: 25px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    margin-bottom: 25px;
+}
+.footer {
+    background:#72a581;
+    padding: 25px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    margin-bottom: 25px;
+}
+button:hover {
+    background-color: #219150;
+}
